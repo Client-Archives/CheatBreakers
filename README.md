@@ -5,7 +5,7 @@ A archive of CheatBreaker versions made over the years. If you know any other ve
 The original version of CheatBreaker
 
 ### CheatBreaker 2017
-A earlier version of CheatBreaker that was released in 2017. JHalt has replaced the deafult textures with a deafult edit
+A earlier version of CheatBreaker that was released in 2017.
 
 ### CheatBreaker+
 A continuation of CheatBreaker made by Arcane. It has been long discontinued.
@@ -20,4 +20,4 @@ A continuation of CheatBreaker made by ShonP40. By far the most known CheatBreak
 A continuation of CheatBreaker made by Protocol Network. Discontinued, the only public 1.8 port. [Website](https://protocol.rip/client)
 
 ### OldCheatBreaker
-A remake of CheatBreaker 2017 made by Arcane. Discontinued
+A remake of CheatBreaker 2017 made by Arcane. It has been long discontinued.
