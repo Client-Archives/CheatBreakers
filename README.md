@@ -11,7 +11,7 @@ A earlier version of CheatBreaker that was released in 2017.
 A continuation of CheatBreaker made by Arcane. It has been long discontinued.
 
 ### Tellinq's CheatBreaker / CheatBreaker 2
-A continuation of CheatBreaker made by Tellinq and his [Team](aboutcb2.md)
+A continuation of CheatBreaker made by [Tellinq and his Team](aboutcb2.md)
 
 ### Offline CheatBreaker
 A continuation of CheatBreaker made by ShonP40. By far the most known CheatBreaker. Maintained, 1.8 skidded from Lunar Client. [Website](https://offlinecheatbreaker.com)
